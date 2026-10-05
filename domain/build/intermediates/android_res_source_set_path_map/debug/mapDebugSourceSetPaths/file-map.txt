@@ -1,0 +1,9 @@
+com.example.socket_invest.domain-pngs-0 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/generated/res/pngs/debug
+com.example.socket_invest.domain-updated_navigation_xml-1 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/generated/updated_navigation_xml/debug
+com.example.socket_invest.domain-mergeDebugResources-2 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.socket_invest.domain-mergeDebugResources-3 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.socket_invest.domain-debug-4 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.socket_invest.domain-debug-5 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.socket_invest.domain-debug-6 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/src/debug/res
+com.example.socket_invest.domain-main-7 /Users/nicatzeynalli/AndroidStudioProjects/socket_invest/domain/src/main/res
+gradleHome-0 /Users/nicatzeynalli/.gradle
